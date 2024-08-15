@@ -8,9 +8,9 @@
 - Email: [lavaniakeshav@gmail.com]
 
 ## Interests
-#[Football, music, chess, videogames]
+[Football, music, chess, videogames]
 
 ## GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=keshav479&show_icons=true&theme=radical)
 
 Feel free to reach out to me for collaborations or just a chat!
