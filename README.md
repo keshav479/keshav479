@@ -1,11 +1,11 @@
 # Hello, I'm Keshav Lavania 👋
 
 ## About Me
-[Add a brief introduction about yourself here]
+[Aspiring Software developer and bachelors student proficient in Fullstack and Machine Learning from India]
 
 ## Connect with Me
 - LinkedIn: [Keshav Lavania](https://www.linkedin.com/in/keshav-lavania-942a33267/)
-- Email: [Your Gmail address]
+- Email: [lavaniakeshav@gmail.com]
 
 ## Skills
 [List your key skills here]
