@@ -1,7 +1,5 @@
 # 👨‍💻 Keshav Lavania | Fullstack Developer & ML Enthusiast
 
-![Header](https://your-image-url-here.com/header-image.png)
-
 ## 🚀 About Me
 
 Passionate software developer and undergraduate student from India, specializing in Fullstack development and Machine Learning. Turning ideas into code and dreams into reality, one commit at a time.
@@ -14,13 +12,6 @@ Passionate software developer and undergraduate student from India, specializing
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
-## 🌟 Featured Projects
-
-1. **Project Name** - Brief description
-   ![GitHub stars](https://img.shields.io/github/stars/keshav479/repo-name?style=social)
-2. **Another Project** - Brief description
-   ![GitHub forks](https://img.shields.io/github/forks/keshav479/repo-name?style=social)
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -30,16 +21,6 @@ Passionate software developer and undergraduate student from India, specializing
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=keshav479&theme=dark" alt="Keshav's Streak" />
 </p>
-
-## 🏆 Achievements
-
-- List any notable achievements, hackathons won, or certifications
-
-## 🎯 Current Focus
-
-- Working on enhancing my skills in [specific area]
-- Contributing to open-source projects in [specific domain]
-- Learning [new technology or framework]
 
 ## 🎸 When I'm Not Coding
 
