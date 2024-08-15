@@ -1,7 +1,7 @@
 # Hello, I'm Keshav Lavania 👋
 
 ## About Me
-[Aspiring Software developer and bachelors student proficient in Fullstack and Machine Learning from India]
+[Aspiring Software developer and bachelors student proficient in Fullstack development and Machine Learning from India]
 
 ## Connect with Me
 - LinkedIn: [Keshav Lavania](https://www.linkedin.com/in/keshav-lavania-942a33267/)
