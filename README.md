@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-Passionate software developer and undergraduate student from India, specializing in Fullstack development and Machine Learning. Turning ideas into code and dreams into reality, one commit at a time.
+Passionate software engineer and undergraduate student from India, specializing in Fullstack development and Machine Learning. Turning ideas into code and dreams into reality, one commit at a time.
 
 ## 🛠 Tech Stack
 
