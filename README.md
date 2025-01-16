@@ -1,4 +1,4 @@
-# 👨‍💻 Keshav Lavania | Fullstack Developer & ML Enthusiast
+# 👨‍💻 Keshav Lavania | Software Engineer
 
 ## 🚀 About Me
 
