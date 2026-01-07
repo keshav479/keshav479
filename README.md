@@ -7,7 +7,7 @@ Turning ideas into code and dreams into reality, **one commit at a time** 🚀
 ---
 
 ### 🧠 Quick Snapshot
-- 💻 Software Engineer (AI & Backend)
+- 💻 Software Engineer (Fullstack & Backend)
 - 🤖 LLMs, RAG, Agentic AI
 - ⚙️ Production-ready APIs & ML systems
 - ☁️ Cloud-deployed solutions
