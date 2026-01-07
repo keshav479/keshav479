@@ -92,13 +92,11 @@ I enjoy taking ideas **from research → production**, with a strong focus on **
 - Designed clean REST APIs for scalable usage
 
 ---
-
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=keshav479&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=keshav479&theme=radical" height="165"/>
-</p>
+![Keshav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=keshav479&show_icons=true&count_private=true&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=keshav479&hide_border=true)
 
 ---
 
